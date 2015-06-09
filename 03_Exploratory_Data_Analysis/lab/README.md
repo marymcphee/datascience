@@ -1,1 +1,2 @@
-###This directory contains 2 iPython notebooks that will be completed by the class
+###This directory contains the following solutions notebooks:
+ * iPython lab notebook done during class on Mon 8 June

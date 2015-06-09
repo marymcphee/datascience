@@ -1,3 +1,4 @@
+
 ##General Assembly Data Science Course 22 
 
 ###June 3-Aug 19 2015
@@ -59,3 +60,5 @@ Your first port of call is to ask Susan, Chris or Mark.
 Almost all of the homework will be done using the iPython Notebook environment. 
 
 All homework can be sent as an attachment to the instructional team (send it to all of us!)
+=======
+# datascience
